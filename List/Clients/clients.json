@@ -1,0 +1,62 @@
+[
+  {
+    "ID": 1,
+    "NomeCliente": "Comune di Mira.FW1"
+  },
+  {
+    "ID": 2,
+    "NomeCliente": "Comune di Mira.FW2"
+  },
+  {
+    "ID": 3,
+    "NomeCliente": "Comune di Napoli.FW1"
+  },
+  {
+    "ID": 4,
+    "NomeCliente": "Comune di Genova.FW1"
+  },
+  {
+    "ID": 10,
+    "NomeCliente": "ESA.FW1"
+  },
+  {
+    "ID": 11,
+    "NomeCliente": "ESA.FW2"
+  },
+  {
+    "ID": 12,
+    "NomeCliente": "ESA.FW4"
+  },
+  {
+    "ID": 13,
+    "NomeCliente": "ESA.FW5"
+  },
+  {
+    "ID": 14,
+    "NomeCliente": "ESA.FW6"
+  },
+  {
+    "ID": 15,
+    "NomeCliente": "Leonardo.FW1"
+  },
+  {
+    "ID": 16,
+    "NomeCliente": "Leonardo.FW2"
+  },
+  {
+    "ID": 17,
+    "NomeCliente": "Museo1.FW1"
+  },
+  {
+    "ID": 18,
+    "NomeCliente": "Museo2.FW1"
+  },
+  {
+    "ID": 19,
+    "NomeCliente": "AAAClienteProva.FWx"
+  },
+  {
+    "ID": 20,
+    "NomeCliente": "creazioneREPO"
+  }
+]
